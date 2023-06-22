@@ -2,7 +2,7 @@
 
 <p>プログラミング初心者</p>
 <p>2022年11月から本格的にプログラミングを始めました。</p>
-<p>開発したいとか言いながら授業の課題に追われており、開発、少ししか進んでないです。</p>
+<p>開発したいと、言いながら授業の課題に追われており、少ししか進んでないです。</p>
 
 <!--
 **Hau7a/Hau7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
