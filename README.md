@@ -1,8 +1,7 @@
 <p>プログラミング初心者</p>
 <p>2022年12月から本格的にプログラミングを始めました。</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hau7a
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hau7a&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hau7a/Hau7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
