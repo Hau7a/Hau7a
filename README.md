@@ -1,7 +1,7 @@
 <p>プログラミング初心者</p>
 <p>2022年12月から本格的にプログラミングを始めました。</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hau7a
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
