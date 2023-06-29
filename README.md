@@ -1,6 +1,8 @@
 <p>プログラミング初心者</p>
 <p>2022年12月から本格的にプログラミングを始めました。</p>
 
+![](https://komarev.com/ghpvc/?username=Hau7a)
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hau7a&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hau7a&theme=onedark&show_icons=ture" />
