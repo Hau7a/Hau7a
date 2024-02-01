@@ -1,5 +1,6 @@
-<p>プログラミング1年目よわよわエンジニア</p>
-
+<p>プログラミング1年目のよわよわエンジニア</p>
+<p>脳科学に興味がある大学3年生</p>
+<p>所属は生体情報工学ではなく社会情報デザイン⁈</p>
 
 フロントエンド<br/>
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,nodejs,nextjs,tailwind)](https://skillicons.dev)
