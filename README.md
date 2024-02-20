@@ -3,7 +3,7 @@
 フロントエンド<br/>
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,nodejs,nextjs,tailwind)](https://skillicons.dev)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Hau7a)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Hau7a&show_icons=true&locale=en&layout=compact)
 
 
 <!--
