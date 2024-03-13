@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hau7a</h1>
+<h1 align="center">Hi 👋, I'm Hau</h1>
 <h3 align="center">プログラミング1年目のよわよわエンジニア</h3>
 
 
